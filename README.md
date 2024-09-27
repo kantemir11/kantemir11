@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kantemir Stalbekov</h1>
 <h3 align="center">Junoir majoring in Computer Science at the University of South Florida</h3>
-<img align=“right” alt="Coding” width="400"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyF3L4FPUShU7Iq8FXP8Z8NmDAY1lm325fyw&s”>
+
+<img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/naruto-icegif-39.gif">
+
 - 🔭 I’m currently working on [psycho test](https://github.com/dmomurkanov/psycho)
 
 - 🌱 I’m currently learning **pandas**
